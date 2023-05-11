@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "podkraduli_beta6", "podkraduli_beta6\podkraduli_beta6.csproj", "{B3DDE04F-36AE-462C-AB02-97856B30660F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DDE04F-36AE-462C-AB02-97856B30660F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DDE04F-36AE-462C-AB02-97856B30660F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DDE04F-36AE-462C-AB02-97856B30660F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DDE04F-36AE-462C-AB02-97856B30660F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D8E9F37-DEE7-4F5E-B95F-0D6E74416A48}
+	EndGlobalSection
+EndGlobal
